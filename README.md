@@ -22,7 +22,7 @@ The value that we select should not be used both horizontally nor vertically. Al
 The algorithms that i compare with backtracking are :\
 • mrv / fc\
 • mrv / mac\
-Results: As we run the problem, we can clearly see that mrv / fc is slower than mrv / mac and especially in hard problems and also mrv / mac makes more assigns than mrv / fc.\
+Results: As we run the problem, we can clearly see that mrv / fc is slower than mrv / mac and especially in hard problems and also mrv / mac makes more assigns than mrv / fc.
 
 To run kenken problem type in terminal :\
-$ python kenken.py\
+$ python kenken.py
