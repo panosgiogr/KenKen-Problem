@@ -5,11 +5,11 @@ Constraint satisfaction problem
 
 KenKen and KenDoku are trademarked names for a style of arithmetic and logic puzzle invented in 2004 by Japanese math teacher Tetsuya Miyamoto, who intended the puzzles to be an instruction-free method of training the brain. The name derives from the Japanese word for cleverness (賢, ken, kashiko(i)). The names Calcudoku and Mathdoku are sometimes used by those who do not have the rights to use the KenKen or KenDoku trademarks.
 
-
+Problem:\
 • n^2 Variables (0 to n-1)\
 • n^2 Domains (1 to n)\
 • Cages : set with numbers and operators\
-• Operator (5 vlaues):\
+• Operator (5 values):\
 { '+' : Addition,\
 '-' : Subtraction,\
 '*' : Multiplication,\
